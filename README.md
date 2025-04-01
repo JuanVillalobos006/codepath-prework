@@ -1,10 +1,10 @@
-# Prework - *Name of App Here*
+# Prework - QuickTask
 
 Submitted by: Juan Villalobos
 
-**Name of your app** is an app that... [TODO] 
+QuickTask is an app that allows you to create a new task and assign a deadline, priority level, and subtasks. The user will see the pending tasks on the dashboard, sorted by date and priority. Once they are completed, they are deleted or hidden. 
 
-Time spent: **X** hours spent in total
+Time spent: 2 hours spent in total
 
 ## Required Features
 
@@ -20,6 +20,20 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming (Step 4)
+
+Notion
+- Desktop sync
+- Dark mode
+- Sharing pages with others
+
+Camscaner
+- Scan photos
+- Auto cropping and filter
+- Easily share files in different formats
+
+Gmail
+- Schedule email
+- Dark mode
 
 ## Notes
 
