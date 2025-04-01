@@ -35,6 +35,8 @@ Gmail
 - Schedule email
 - Dark mode
 
+QuickTask is an app that allows you to create a new task and assign a deadline, priority level, and subtasks. The user will see the pending tasks on the dashboard, sorted by date and priority. Once they are completed, they are deleted or hidden. 
+
 ## Notes
 
 Describe any challenges encountered while building the app.
